@@ -6,6 +6,8 @@ Artie is a multi-agent, AI-powered drawing and guessing game. It features a cast
 
 Video Demonstration: [https://youtu.be/hrJ-bd-sOEk](https://youtu.be/hrJ-bd-sOEk)
 
+https://github.com/user-attachments/assets/b5345ee7-e4a1-4b55-bf50-5db3c4dcc371
+
 ## Features
 
 - **Multi-Agent Simulation**: 5 distinct AI agents (Artie, Pixel, Sketch, Doodle, Master) with unique personalities.
