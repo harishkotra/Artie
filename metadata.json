@@ -1,0 +1,5 @@
+{
+  "name": "Artie",
+  "description": "A showcase of multiple AI agents playing a drawing and guessing game together, using Gemini for creative expression.",
+  "requestFramePermissions": []
+}
