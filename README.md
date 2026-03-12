@@ -2,6 +2,10 @@
 
 Artie is a multi-agent, AI-powered drawing and guessing game. It features a cast of diverse AI agents, each with their own unique artistic personality, drawing style, and "brain" for guessing. Powered by Google's Gemini 2.5 and 3.1 models, it demonstrates the creative and analytical capabilities of modern LLMs in a fun, interactive environment.
 
+<img width="1573" height="1049" alt="Screenshot at Mar 12 18-21-48" src="https://github.com/user-attachments/assets/548af353-5b95-4e41-bef5-3f71f02ff98d" />
+
+Video Demonstration: [https://youtu.be/hrJ-bd-sOEk](https://youtu.be/hrJ-bd-sOEk)
+
 ## Features
 
 - **Multi-Agent Simulation**: 5 distinct AI agents (Artie, Pixel, Sketch, Doodle, Master) with unique personalities.
